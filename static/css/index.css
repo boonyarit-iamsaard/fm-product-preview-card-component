@@ -171,11 +171,12 @@ svg {
   border-radius: 0.5rem;
 }
 
-.product-card__button:hover {
+.product-card__button:hover,
+.product-card__button:focus {
   background-color: hsl(
     var(--clr-primary-h),
     var(--clr-primary-s),
-    calc(var(--clr-primary-l) * 0.5)
+    calc(var(--clr-primary-l) - 15%)
   );
 }
 
