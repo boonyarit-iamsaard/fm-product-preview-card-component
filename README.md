@@ -1,6 +1,6 @@
 # Frontend Mentor - Product preview card component solution
 
-This is a solution to the [Product preview card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/product-preview-card-component-GO7UmttRfa). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
+This is a solution to the [Product preview card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/product-preview-card-component-GO7UmttRfa). Frontend Mentor challenges help you improve your coding skills by building real projects.
 
 ## Table of contents
 
@@ -47,7 +47,7 @@ Users should be able to:
 
 [How to use HSL and calc functions in CSS to build darken and light colors](https://dev.to/danywalls/how-to-use-hsl-and-calc-functions-in-css-for-creating-darken-and-light-colors-3kbn) for hover and focus states of interactive elements.
 
-See code snippet below:
+See the code snippet below:
 
 ```css
 :root {
@@ -77,7 +77,7 @@ See code snippet below:
 
 ### Useful resources
 
-- [[Scrimba] Build a space travel website by Kevin Powell](https://scrimba.com/learn/spacetravel) - This free resource helped me on how to approach CSS custom properties, utility classes ,and responsive layout with grid and flexbox.
+- [[Scrimba] Build a space travel website by Kevin Powell](https://scrimba.com/learn/spacetravel) - This free resource helped me on how to approach CSS custom properties, utility classes, and responsive layout with grid and flexbox.
 
 ## Author
 
